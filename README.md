@@ -3,7 +3,12 @@
 ## Overview
 This project focuses on the detection and classification of lumbar spinal stenosis from sagittal MRI images using the YOLOv8 deep learning model.
 
-The work is derived from a group research project published at the ICOFE-2024 conference. This repository presents the implementation of the proposed approach, covering data preprocessing, object detection, and evaluation workflows for medical image analysis.
+The work is derived from our group research project published at the ICOFE-2024 conference. This repository presents the implementation of the proposed approach, covering data preprocessing, object detection, and evaluation workflows for medical image analysis.
+
+## Research Reference
+
+**Paper:** Lumbar Spinal Stenosis Degenerative Detection and Classification on MRI Images  
+🔗 Link: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5088833>
 
 ## Research Background
 **Paper Title:** Lumbar Spinal Stenosis Degenerative Detection and Classification on MRI Images  
